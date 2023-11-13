@@ -1,4 +1,4 @@
-# Module 12 Report Template
+# Credit-Risk-Classification
 
 ## Overview of the Analysis
 
@@ -40,3 +40,13 @@ Using bulleted lists, describe the balanced accuracy scores and the precision an
 After running each model, Machine Learning Model 2 performs better but only by a slight advantage. The results above show a very close comparison between each model. The outcomes for value 0 remained the same, but Model 2 performed with an f1-score of only 0.03 higher than Model 1. 
 
 Although the results are similar, it is important to note that predicting the value 1s is extremely vital as they represent portfolios of high risk credit. Failing to successfully predict high risk can lead to financial losses and a loss of reputation of the lending company. Hence, I would still recommend to use Model 2 as it does a better job with predicting for 1s than Model 1. 
+
+## Dependencies
+1. numpy
+2. pandas
+3. pathlib
+4. sklearn
+
+## Programs/Languages
+1. Python
+2. Jupyter Notebook
