@@ -41,6 +41,11 @@ After running each model, Machine Learning Model 2 performs better but only by a
 
 Although the results are similar, it is important to note that predicting the value 1s is extremely vital as they represent portfolios of high risk credit. Failing to successfully predict high risk can lead to financial losses and a loss of reputation of the lending company. Hence, I would still recommend to use Model 2 as it does a better job with predicting for 1s than Model 1. 
 
+## Files
+1. Credit_Risk Folder containing the following:
+    - credit_risk_classification notebook
+    - lending_data excel file
+
 ## Dependencies
 1. numpy
 2. pandas
